@@ -1,4 +1,4 @@
-# Android Project 4 - *Entertainment Here*
+# Android Project 4 - *Flixster+ Part 2*
 
 Submitted by: **Pooja Loganathan**
 
